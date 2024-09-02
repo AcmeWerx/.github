@@ -24,7 +24,6 @@ AcmeWerx is committed to delivering impactful solutions that not only meet but e
 | Project | Description |
 |---------|-------------|
 | [<img src="https://pbs.twimg.com/profile_images/1800055492137385984/wfymVjek_400x400.jpg" alt="CryptoVersus.io" width="50%"/>](https://cryptoversus.io) <br> [CryptoVersus.io](https://cryptoversus.io) | **Description:** A token-gated decentralized social media ecosystem designed to connect clients and developers. |
-| [<img src="https://pbs.twimg.com/profile_images/1678944486142128128/WNN4BSo0_400x400.jpg" alt="HexedHeroes" width="50%"/>](https://x.com/HexedHeroes) <br> [HexedHeroes](https://x.com/HexedHeroes) | **Description:** A collection of playable NFT heroes on Solana, focusing on fun and earning potential. |
 | [<img src="https://pbs.twimg.com/profile_images/1736952931990077440/aWuguC3g_400x400.jpg" alt="MMOSH" width="50%"/>](https://x.com/MMOSH_Pit) <br> [MMOSH](https://x.com/MMOSH_Pit) | **Description:** A decentralized, permissionless, and composable world accessible through various platforms. |
 
 ## 🚀 Let's Collaborate
