@@ -19,14 +19,67 @@ AcmeWerx is committed to delivering impactful solutions that not only meet but e
 
 [Visit our website](https://acmewerx.com) to learn more.
 
-## 🛠️ Featured Projects
+## 🤝 Our Trusted Partners
+Through our affiliation, we work with a network of trusted partners to enrich our technology ecosystem:
 
-| Project | Description |
-|---------|-------------|
-| [<img src="https://pbs.twimg.com/profile_images/1800055492137385984/wfymVjek_400x400.jpg" alt="CryptoVersus.io" width="50%"/>](https://cryptoversus.io) <br> [CryptoVersus.io](https://cryptoversus.io) | **Description:** A token-gated decentralized social media ecosystem designed to connect clients and developers. |
-| [<img src="https://pbs.twimg.com/profile_images/1736952931990077440/aWuguC3g_400x400.jpg" alt="MMOSH" width="50%"/>](https://x.com/MMOSH_Pit) <br> [MMOSH](https://x.com/MMOSH_Pit) | **Description:** A decentralized, permissionless, and composable world accessible through various platforms. |
-| [<img src="https://storage.builderall.com//franquias/2/7304564/editor-html/12678196.png" alt="RavenSong" width="50%"/>](https://RavenSong.com) <br> [RavenSong](https://RavenSong.com) | **Description:** Ravensong is dedicated to building the next generation of innovative builders, one lesson at a time. Let me help you maximize your capabilities through hands-on learning |
+<div align="center">
 
+<table>
+  <tr>
+    <th>Partner</th>
+    <th>Logo</th>
+  </tr>
+  <tr>
+    <td><strong>Bellwether Group</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/company/the-bellwether-group-inc">
+        <img src="https://github.com/user-attachments/assets/8ab1eff1-3f3f-4dca-be2c-864f797862e8" alt="Bellwether Group Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AcmeWerx Labs</strong></td>
+    <td>
+      <a href="https://acmewerx.com">
+        <img src="https://github.com/user-attachments/assets/3e0653eb-8f42-46f8-9f02-8efbf0f3de2f" alt="AcmeWerx Labs Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bravura</strong></td>
+    <td>
+      <a href="https://bravurainc.com/surveillance/">
+        <img src="https://github.com/user-attachments/assets/6da0a73f-4995-4b38-8184-5c62fe0b78b1" alt="Bravura Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Velar Codex</strong></td>
+    <td>
+      <a href="https://velar.us">
+        <img src="https://github.com/user-attachments/assets/d07a9f53-f850-413f-b24f-58651864e703" alt="Velar Codex Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GINKGO-AI</strong></td>
+    <td>
+      <a href="https://ginkgo-ai.com/">
+        <img src="https://github.com/user-attachments/assets/b408aae1-20e1-4a96-9b08-cc7b53d9cd3e" alt="GINKGO-AI Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td><strong>KOVE</strong></td>
+    <td>
+      <a href="https://kove.com/">
+<img src="https://github.com/user-attachments/assets/efc0d30d-ea79-4119-bc2c-11aaa0e9996e" alt="KOVE Logo" width="150"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🚀 Let's Collaborate
 Ready to embark on a digital transformation journey? [Get in touch with us](https://acmewerx.com/contact) to discuss how we can help you achieve your goals.
